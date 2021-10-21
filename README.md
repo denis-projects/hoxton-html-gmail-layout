@@ -1,1 +1,1 @@
-# hoxton-html-gmail-laylout
+# hoxton-html-gmail-layout
